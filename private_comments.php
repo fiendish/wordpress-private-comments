@@ -7,8 +7,6 @@ Author: Avi Kelman
 Version: 1.0.0
 Author URI: https://www.github.com/fiendish
 */ 
-?>
-<?php 
 
 function plugin_private_allowed_group()
 {
