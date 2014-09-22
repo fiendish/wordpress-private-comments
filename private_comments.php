@@ -1,5 +1,6 @@
 <?php 
-/* Plugin Name: Private Comments
+/* 
+Plugin Name: Private Comments
 Plugin URI: https://www.github.com/fiendish/wordpress-private-comments
 Description: Comments are only visible to the allowed group.
 Author: Avi Kelman
